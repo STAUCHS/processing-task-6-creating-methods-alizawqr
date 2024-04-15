@@ -23,7 +23,7 @@ public class Sketch extends PApplet {
 
    public void draw() {
 
-    // row one
+    // row one 
     drawLamp(50, 40);
     drawLamp(150, 40);
     drawLamp(250, 40);
@@ -103,7 +103,7 @@ public class Sketch extends PApplet {
    * @param knobColourThree Fill colour for door knob (blue)
    * @param lightX X coordinate lamp is drawn at
    * @param lightY Y coordinate lamp is drawn at
-   * @return The
+   * @return 
    * @author: A. Waqar
    */
 
